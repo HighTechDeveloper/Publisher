@@ -3,3 +3,5 @@
 
 Логин guest
 Пароль guest
+
+Видео : https://www.youtube.com/watch?v=D0d18Es-eVE
